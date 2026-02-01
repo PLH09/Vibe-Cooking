@@ -1,0 +1,8 @@
+{
+  "name": "Vibe Cooking",
+  "description": "Your sustainable kitchen companion. Upload a video of your fridge, and we'll generate step-by-step cooking guides based on what you have and what you crave.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
